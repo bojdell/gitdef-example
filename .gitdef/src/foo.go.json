@@ -1,0 +1,6 @@
+{
+  "defs": {
+    "bar": "src/bar.go:3:6",
+    "foo": "src/foo.go:7:6"
+  }
+}
